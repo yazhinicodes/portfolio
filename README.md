@@ -25,7 +25,7 @@ I build full-stack and backend systems: REST APIs, AI pipelines, databases, and 
 | 🎓 **Education** | B.Tech AI & ML, Bannari Amman Institute of Technology |
 | 📊 **CGPA** | 8.85 |
 | 📍 **Location** | Tamil Nadu, India |
-| 🌱 **Currently learning** | Flutter & Dart |
+| 🌱 **Currently learning** | Flutter & Dart ([first app: DocuChat](https://github.com/yazhinicodes/Docuchat)) |
 | 💼 **Looking for** | Flutter app development role |
 
 ---
@@ -65,6 +65,33 @@ I build full-stack and backend systems: REST APIs, AI pipelines, databases, and 
 ---
 
 ## 🚀 Projects
+
+### ⭐ Featured: 💬 DocuChat: Flutter AI Chat App
+[![Repo](https://img.shields.io/badge/View%20Repo-Docuchat-181717?style=flat-square&logo=github)](https://github.com/yazhinicodes/Docuchat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+My first Flutter app: an AI-powered chat app with a WhatsApp-style interface, powered by the **Google Gemini API**.
+
+<p>
+  <img src="https://github.com/yazhinicodes/Docuchat/raw/main/screenshots/chat.jpeg" width="240" alt="DocuChat chat screen" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/yazhinicodes/Docuchat/raw/main/screenshots/error.jpeg" width="240" alt="DocuChat error handling" />
+</p>
+
+- 💬 Chat UI with user and AI message bubbles and timestamps
+- 🧠 Real Gemini answers with full conversation memory
+- ⌨️ Typing indicator and auto-scroll to the latest message
+- 🛟 Friendly error handling: missing key, timeouts, rate limits, no internet
+- 🧪 Widget test covering the core send-message flow
+- 🔑 API key kept out of source control
+- 🗂️ Clean structure: models, services, screens and reusable widgets
+
+**Stack:** `Flutter` `Dart` `Gemini API` `http` `Material 3`
+
+> 💡 **Why it matters for this role:** this is my first Flutter project, built after I was shortlisted. It shows how quickly I pick up a new framework, and I already know the next steps: a backend proxy so the API key never ships inside the app, chat history saved on the device, markdown rendering and streaming responses.
+
+---
 
 ### 1️⃣ 📄 DocuMind: AI Document Q&A System
 [![Repo](https://img.shields.io/badge/View%20Repo-documind-181717?style=flat-square&logo=github)](https://github.com/yazhinicodes/documind)
@@ -117,26 +144,30 @@ A weekly stock allocation and end-of-life (EOL) risk engine for a **25-store mob
 
 ## 📱 Flutter: My Current Focus
 
-I don't have prior Flutter experience, and I'd rather say that up front than overstate it. Here's what I'm doing about it:
+I had no Flutter experience before this role came up, so I learned by building. My first Flutter app, **DocuChat**, is on GitHub and runs against a real API.
 
 | Step | Status |
 |------|--------|
-| Learning Dart fundamentals | 🔄 In progress |
-| Flutter widgets, layouts and state management | 🔄 In progress |
-| Connecting a Flutter UI to a REST API | 🔜 Next |
-| Building and publishing my first Flutter app | 🔄 In progress |
+| Dart fundamentals | ✅ Done |
+| Widgets, widget tree, Stateless vs Stateful | ✅ Done |
+| State management with `setState` | ✅ Done |
+| Consuming a REST API from a mobile app (async/await) | ✅ Done |
+| Widget testing | ✅ Done |
+| Chat history on device, markdown rendering, streaming | 🔜 Next |
+| Backend proxy so the API key never ships in the app | 🔜 Next |
 
-📦 **My Flutter project:** `[Add repo link here once pushed]`
+📦 **My Flutter project:** [github.com/yazhinicodes/Docuchat](https://github.com/yazhinicodes/Docuchat)
 
 ---
 
 ## 🎯 Why Hire Me for App Development?
 
-**I'll be upfront: Flutter is new to me.** Here's why I think that's a small gap rather than a risk.
+**I'll be upfront: Flutter is new to me, and DocuChat is my first Flutter app.** Here's why I think that's a small gap rather than a risk.
 
 | ✅ What I bring | 📌 Evidence |
 |---|---|
-| **I learn fast and ship** | Built DocuMind, a full AI stack, from scratch with no prior FastAPI, React or Docker experience |
+| **I learn fast and ship** | Built DocuMind, a full AI stack, from scratch with no prior FastAPI, React or Docker experience, then built DocuChat in Flutter after being shortlisted |
+| **I've already built a Flutter app** | [DocuChat](https://github.com/yazhinicodes/Docuchat): widgets, `setState`, async API calls, error handling and a widget test |
 | **I already know the backend side of apps** | REST APIs, JWT auth, validation, databases and testing (SplitEase, DocuMind) |
 | **I understand how data reaches the screen** | Built a React frontend for DocuMind and a Streamlit interface for Mobimart |
 | **I think about real users and constraints** | Mobimart Planner turns a ₹4 Crore constraint into clear, rupee-denominated recommendations |
@@ -145,7 +176,7 @@ I don't have prior Flutter experience, and I'd rather say that up front than ove
 | **Strong foundations** | B.Tech AI & ML, CGPA 8.85 |
 
 ### 🤝 What you can expect from me
-- 📚 A steep, visible learning curve, with progress you can check on GitHub
+- 📚 A steep, visible learning curve, with progress you can check on GitHub (DocuChat already has a roadmap)
 - 🔌 Comfort working on the API and backend side as well as the UI
 - 🗣️ Clear communication when I'm stuck, and fast follow-through when I'm not
 - 🧩 A bonus: my AI/ML background means I can later help integrate features like smart search or document Q&A into apps
