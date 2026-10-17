@@ -155,8 +155,8 @@ I don't have prior Flutter experience, and I'd rather say that up front than ove
 ## 📬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-yazhinicodes-181717?style=for-the-badge&logo=github)](https://github.com/yazhinicodes)
-[![Email](https://img.shields.io/badge/Email-yazhinikarnan05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yazhini-k-61b8922a1)
+[![Email](https://img.shields.io/badge/Email-yazhinikarnan05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazhinikarnan05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yazhini%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazhini-k-61b8922a1)
 
 ---
 
